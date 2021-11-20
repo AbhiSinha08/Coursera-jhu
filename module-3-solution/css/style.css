@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+h1, h2 {
+    font-family: 'Itim', sans-serif;
+    margin: 18px;
+}
+
+p {
+    font-size: 1.15em;
+}
+
+.navbar-brand {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.col-12 {
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: #eeeeee;
+    padding-bottom: 30px;
+}
+
+#content {
+    padding: 50px;
+}
+
+li {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #ffffff;
+}
